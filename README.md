@@ -6,6 +6,24 @@ The Encryption and Decryption Tool is a versatile application for secure text ma
 - User-friendly graphical interface built with `Tkinter.`
 - Single and multi-key input support.
 - Real-time encryption and decryption processing.
+## Screenshots
+To better understand the functionality of this application, refer to the screenshots below:
+1. Default screen for GUI.
+   - [View Screenshot](EDT-initialscreen.png)
+2. Ceasar Cipher encryption
+   - [View Screenshot](EDT-CeasarEncrypt.png)
+3. Vigenère Cipher encryption
+   - [View Screenshot](EDT-VigenèreEncrypt.png)
+4. Substitution Cipher encryption
+   - [View Screenshot](EDT-SubstitutionEncrypt.png)
+5. Transposition Cipher encryption
+   - [View Screenshot](EDT-TranspositionEncrypt.png)
+6. Affine Cipher encryption
+   - [View Screenshot](EDT-AffineEncrypt.png)
+7. Rail Fence encryptions
+   - [View Screenshot](EDT-RailFenceEncrypt.png)
+8. Base 64 encryption
+   - [View Screenshot](EDT-Base64Encrypt.png)
 ## Requirements
 - Python 3.8+
 - Required libraries:
