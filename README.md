@@ -1,4 +1,9 @@
 # Encrypt-Decrypt-tool
+![Python Version](https://img.shields.io/badge/python-3.x-blue)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Last Commit](https://img.shields.io/github/last-commit/YourUsername/Encryption-Decryption-Tool)
+![Issues](https://img.shields.io/github/issues/YourUsername/Encryption-Decryption-Tool)
 ## Introduction
 The Encryption and Decryption Tool is a versatile application for secure text manipulation. It supports multiple encryption and decryption methods, including Caesar Cipher, Vigenère Cipher, Substitution Cipher, Transposition Cipher, Affine Cipher, Rail Fence Cipher, and Base64 Encoding/Decoding.
 ## Features
